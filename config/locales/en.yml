@@ -1,0 +1,19 @@
+en:
+  beautiful_cars:
+    'Beautiful cars'
+  brand:
+    'Brand:'
+  model:
+    'Model:'
+  notes:
+    'Notes:'
+  owner:
+    'Owner:'
+  city:
+    'City:'
+  owner_phone: "Owner's phone:"
+  used: 'Previously used'
+  new: 'New'
+  undefined: 'N/A'
+  state: 'State:'
+  date: 'Date of publication:'

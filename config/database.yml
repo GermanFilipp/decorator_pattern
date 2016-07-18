@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: decorator_development
+  pool: 20
+  user: german
+  password: 8mTMQKpo
